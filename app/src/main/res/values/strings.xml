@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="description_imageview_background">ImageView background</string>
+    <string name="description_elementimageview">ImageView for elements</string>
+</resources>
